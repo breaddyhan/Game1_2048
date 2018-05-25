@@ -1,0 +1,776 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time_sh",
+				"time_shown_t"
+			],
+			[
+				"time_",
+				"time_shown_t"
+			],
+			[
+				"win",
+				"graphWin"
+			],
+			[
+				"lis",
+				"list_color"
+			],
+			[
+				"li",
+				"list_color"
+			],
+			[
+				"time",
+				"time_responded"
+			],
+			[
+				"reac",
+				"reactionTime"
+			],
+			[
+				"times",
+				"time_responded"
+			],
+			[
+				"list",
+				"listener"
+			],
+			[
+				"s",
+				"switch"
+			],
+			[
+				"color",
+				"list_color"
+			],
+			[
+				"ran",
+				"randomColor"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"rando",
+				"randomData"
+			],
+			[
+				"rand",
+				"randomData"
+			],
+			[
+				"tup",
+				"tupleValue"
+			],
+			[
+				"rgb",
+				"rbg_b"
+			],
+			[
+				"write",
+				"writeFile"
+			],
+			[
+				"left",
+				"leftClick"
+			],
+			[
+				"wri",
+				"writerow"
+			],
+			[
+				"cs",
+				"csv_file_r"
+			],
+			[
+				"csv",
+				"csv_file"
+			],
+			[
+				"csv_",
+				"csv_reader"
+			],
+			[
+				"grap",
+				"graphWin"
+			],
+			[
+				"coord",
+				"coord3"
+			],
+			[
+				"total",
+				"TotalConnectedTriangles"
+			],
+			[
+				"vertex",
+				"vertexNumber"
+			],
+			[
+				"Model",
+				"Model_OBJ"
+			],
+			[
+				"model",
+				"Model_OBJ"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"Total",
+				"TotalConnectedTriangles"
+			],
+			[
+				"load",
+				"Load"
+			],
+			[
+				"tran",
+				"triangle_index"
+			],
+			[
+				"normal",
+				"normalNumber"
+			],
+			[
+				"Face",
+				"Faces_Triangles"
+			],
+			[
+				"tfar",
+				"tfar"
+			],
+			[
+				"tnea",
+				"tnear"
+			],
+			[
+				"inter",
+				"intersection"
+			],
+			[
+				"fl",
+				"false"
+			],
+			[
+				"sele",
+				"selectIn"
+			],
+			[
+				"trans",
+				"trans"
+			],
+			[
+				"goto",
+				"goToRoot"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"Inter",
+				"Intersection"
+			],
+			[
+				"Intersec",
+				"intersection"
+			],
+			[
+				"Rd",
+				"Rdy"
+			],
+			[
+				"temve",
+				"tempVec3t"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"tem",
+				"tempVec3s"
+			],
+			[
+				"te",
+				"tempVec4t"
+			],
+			[
+				"tempVec",
+				"tempVec3s"
+			],
+			[
+				"tempVe",
+				"tempVec3s"
+			],
+			[
+				"temp",
+				"tempVec3t"
+			],
+			[
+				"tea",
+				"teapot"
+			],
+			[
+				"tempV",
+				"tempVec3"
+			],
+			[
+				"No",
+				"NodeModel"
+			],
+			[
+				"insert",
+				"insertChildNodeHere"
+			],
+			[
+				"tras",
+				"trasformation"
+			],
+			[
+				"MA",
+				"MaterialType"
+			],
+			[
+				"gt",
+				"goToChild"
+			],
+			[
+				"Mo",
+				"ModelType"
+			],
+			[
+				"Mater",
+				"MaterialType"
+			],
+			[
+				"save",
+				"saveTrans"
+			],
+			[
+				"vector",
+				"Vector3D"
+			],
+			[
+				"cont",
+				"counter"
+			],
+			[
+				"light",
+				"light_pos0"
+			],
+			[
+				"Vincent",
+				"Vincent搞啥子呢"
+			],
+			[
+				"go",
+				"goToRoot"
+			],
+			[
+				"node",
+				"nodeMaterial"
+			],
+			[
+				"mater",
+				"material"
+			],
+			[
+				"inser",
+				"insertChildNodeHere"
+			],
+			[
+				"got",
+				"goToParent"
+			],
+			[
+				"group",
+				"GroupNum"
+			],
+			[
+				"grou",
+				"GroupNum"
+			],
+			[
+				"Group",
+				"NodeGroup"
+			],
+			[
+				"Tra",
+				"TransformArray"
+			],
+			[
+				"Nod",
+				"NodeGroup"
+			],
+			[
+				"inse",
+				"insertChildNodeHere"
+			],
+			[
+				"curr",
+				"currentNode"
+			],
+			[
+				"cu",
+				"currentNode"
+			],
+			[
+				"Sc",
+				"SceneGraph"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"glut",
+				"glutGetModifiers"
+			],
+			[
+				"draw",
+				"drawAxis"
+			],
+			[
+				"glutadd",
+				"glutAddMenuEntry"
+			],
+			[
+				"max",
+				"maxH"
+			],
+			[
+				"per",
+				"percent1"
+			],
+			[
+				"Sha",
+				"shadingF"
+			],
+			[
+				"colour",
+				"colourT"
+			],
+			[
+				"GL_LI",
+				"GL_LIGHT1"
+			],
+			[
+				"GL_",
+				"GL_LIGHT1"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"pos",
+				"light_pos0"
+			],
+			[
+				"lightpo",
+				"light_pos0"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"post",
+				"glutPostRedisplay"
+			],
+			[
+				"res",
+				"resetN"
+			],
+			[
+				"disa",
+				"glDisable"
+			],
+			[
+				"LIN",
+				"GL_LINES"
+			],
+			[
+				"gl",
+				"glColor3f"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"gridM",
+				"gridMid"
+			],
+			[
+				"glutM",
+				"glutSetMenu"
+			],
+			[
+				"red",
+				"glutPostRedisplay"
+			],
+			[
+				"r",
+				"R"
+			],
+			[
+				"shading",
+				"shadingF"
+			],
+			[
+				"shadin",
+				"shadingF"
+			],
+			[
+				"shad",
+				"shadingF"
+			],
+			[
+				"GL_L",
+				"GL_LINE"
+			],
+			[
+				"glPol",
+				"glPolygonOffset"
+			],
+			[
+				"rotate",
+				"rotateX"
+			],
+			[
+				"mode",
+				"modelview"
+			],
+			[
+				"glR",
+				"glutPostRedisplay"
+			],
+			[
+				"GLUT_KEY_",
+				"GLUT_KEY_LEFT"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"leng",
+				"lengthN"
+			],
+			[
+				"face",
+				"faceN"
+			],
+			[
+				"vy",
+				"vy"
+			],
+			[
+				"buff",
+				"glutSwapBuffers"
+			],
+			[
+				"glco",
+				"glColor3f"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/BreaddyH/myApp/Program.cs",
+		"/Users/BreaddyH/Desktop/temp/jobcrawl/src/components/app.js",
+		"/Users/BreaddyH/Desktop/temp/jobcrawl/src/index.js",
+		"/Users/BreaddyH/Documents/4.2016_Fall/4HC3_/Project/M4/MS4/common.js",
+		"/Users/BreaddyH/Documents/4.2016_Fall/4HC3_/Project/M4/MS4/main.js",
+		"/Users/BreaddyH/Documents/4.2016_Fall/4HC3_/Project/M4/MS4/main.html",
+		"/Users/BreaddyH/Documents/4.2016_Fall/4HC3_/Project/M4/MS4/jquery-3.1.1.js",
+		"/Users/BreaddyH/4GC3 project/RayCast/Assets/Tina's Try Out/Scripts/AIMain.cs",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A2/A2/3_summary.txt",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A2/A2/1_data_Yanting.csv",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A2/A2/1_data_Yifei.csv",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A2/A2/1_data_Yangting.csv",
+		"/Users/BreaddyH/4GC3_A2_VRT+sound/data.csv",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A2/data_Tina.csv",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A2/data_Yifei.csv",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A2/A2/summary.txt",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A2/data_Yifei",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/randomData.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/a1.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A2/a2.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A2/A2/Summary.txt",
+		"/Library/Input Methods/SogouInput.app/Contents/Resources/phrases.ini",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/A1/2. Data.csv",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/summary.txt",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/a1bk.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/graphics.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/data.csv",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/group_number, colour, luminance, r, g, b, time_sho",
+		"/Users/BreaddyH/Desktop/a1.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/systemLatency.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/Tina.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/a1_part1",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/mouse.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/Tina",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/randomTime.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR4GC3/Assignment/A1/time.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR 4GC3/Assignment/A1/a1.py",
+		"/Users/BreaddyH/Documents/7.2018_Winter/SFWR 4GC3/Assignment/A1/a1",
+		"/Users/BreaddyH/Desktop/GGWC_test/README.md",
+		"/Users/BreaddyH/GGWC_test/README.md",
+		"/Users/BreaddyH/Documents/Study/4. Practise/1. HTML/hellp.html",
+		"/Users/BreaddyH/Documents/2017/Era Diabetes/1.100层资料/DownFloor/js/ThornBlock.js",
+		"/Users/BreaddyH/Documents/2017/Era Diabetes/1.100层资料/DownFloor/js/FlipBlock.js",
+		"/Users/BreaddyH/Documents/2017/Era Diabetes/1.100层资料/DownFloor/js/MissBlock.js",
+		"/Users/BreaddyH/Documents/2017/Era Diabetes/1.100层资料/DownFloor/js/NormalBlock.js",
+		"/Users/BreaddyH/Documents/2017/Era Diabetes/1.100层资料/DownFloor/js/Game.js",
+		"/Users/BreaddyH/Documents/2017/Era Diabetes/1.100层资料/DownFloor/js/BlockBase.js",
+		"/Users/BreaddyH/Documents/2017/Era Diabetes/1.100层资料/DownFloor/js/BlockFactory.js",
+		"/Users/BreaddyH/Documents/2017/Era Diabetes/1.100层资料/DownFloor/js/Player.js",
+		"/Users/BreaddyH/Documents/Git/breaddyhan.github.io/index.html",
+		"/Users/BreaddyH/AndroidStudioProjects/EcoSim/app/src/main/java/com/cstokes/ecosim/app/main/simulation/menu/SimulationMenuScreen.java",
+		"/Users/BreaddyH/AndroidStudioProjects/EcoSim/app/src/main/java/com/cstokes/ecosim/app/main/simulation/settings/SimSettingsManager.java",
+		"/Users/BreaddyH/AndroidStudioProjects/EcoSim/app/src/main/java/com/cstokes/ecosim/app/main/simulation/map/SimMapScreen.java",
+		"/Users/BreaddyH/AndroidStudioProjects/EcoSim/app/src/main/java/com/cstokes/ecosim/app/main/MainScreen.java",
+		"/Users/BreaddyH/AndroidStudioProjects/EcoSim/app/src/main/java/com/cstokes/ecosim/app/main/simulation/create/SimCreateScreen.java",
+		"/Users/BreaddyH/Documents/2017_Winter/4X03/Assignment/A1/hany25/a4/FindPeriod.m",
+		"/Users/BreaddyH/Desktop/p3_main.m",
+		"/Users/BreaddyH/Desktop/RungeKutta4.m",
+		"/Users/BreaddyH/Desktop/XP_System.m",
+		"/Users/BreaddyH/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d1c013ab0e66d5fac7323062db3954be/Message/MessageTemp/91c7aa9a91555754f2cf8f34326cb13b/File/findPeriod.m",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/TS_TDfense/Data/TowerDefence/tdgame/TDFighter.cpp",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/TS_TDfense/Data/TowerDefence/tdgame/TDCharacter.cpp",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/Tombstone TowerDefense_Stucked on the msgPassing for shooting/Data/TowerDefence/tdgame/MMFighter.cpp",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/TS_TDfense/Data/Engine/input.cfg",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/Tombstone TowerDefense_Stucked on the msgPassing for shooting/EngineCode/TSSound.cpp",
+		"/Users/BreaddyH/Documents/2017_Winter/4C03/Lab/PLab2/skeleton.py",
+		"/Users/BreaddyH/Documents/2017_Winter/4C03/Lab/PLab2/skeletonYH.py",
+		"/Users/BreaddyH/Documents/2017_Winter/4C03/Lab/PLab2/skeletonOrigin.py",
+		"/Users/BreaddyH/Documents/2017_Winter/4C03/资料/4C03/P2/skeleton.py",
+		"/Users/BreaddyH/Desktop/TestShortest.java",
+		"/Users/BreaddyH/Documents/2017_Winter/3S03/past Assignment/A2/CaptureOutput.java",
+		"/Users/BreaddyH/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d1c013ab0e66d5fac7323062db3954be/Message/MessageTemp/733bad269ffb146e7cdd8ff55ae19337/File/A2/CaptureOutputTest.java",
+		"/Users/BreaddyH/Documents/workspace/3S03/src/A2/ShortestPathTest.java",
+		"/Users/BreaddyH/Documents/2017_Winter/3S03/past Assignment/A2/CaptureOutputTest.java",
+		"/Users/BreaddyH/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d1c013ab0e66d5fac7323062db3954be/Message/MessageTemp/733bad269ffb146e7cdd8ff55ae19337/File/A2/MatrixConverter.class",
+		"/Users/BreaddyH/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d1c013ab0e66d5fac7323062db3954be/Message/MessageTemp/733bad269ffb146e7cdd8ff55ae19337/File/A2/CaptureOutput.java",
+		"/Users/BreaddyH/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d1c013ab0e66d5fac7323062db3954be/Message/MessageTemp/733bad269ffb146e7cdd8ff55ae19337/File/A2/Matrix.class",
+		"/Users/BreaddyH/Documents/MATLAB/4X03/A3/tickers.txt",
+		"/Users/BreaddyH/Desktop/hi.cpp",
+		"/Users/BreaddyH/Downloads/Makefile.cfg",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/backup/TowerDefence/tdgame/MMGame.cpp",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/backup/TowerDefence/tdgame/MMInput.cpp",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/TS_TDfense/Data/Engine/game.cfg",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/Tombstone TowerDefense/Data/TowerDefence/tdgame/TDTowerController.cpp",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/Tombstone TowerDefense/Data/TowerDefence/tdgame/MMMultiplayer.cpp",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/Tombstone TowerDefense/Data/TowerDefence/tdgame/MMFighter.cpp",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/Tombstone TowerDefense/Data/TowerDefence/tdgame/MMColectCont.cpp",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/tombstone/Data/Engine/input.cfg",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/Tombstone TowerDefense/Data/Engine/input.cfg",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/tombstone/Data/mvm/MMGameWorld.cpp",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/Tombstone/Data/Engine/game.cfg",
+		"/Users/BreaddyH/Documents/2017_Winter/4GP6/Tombstone/Tombstone-1.0-Data/Data/Engine/game.cfg",
+		"/Users/BreaddyH/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d1c013ab0e66d5fac7323062db3954be/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/File/MMFighter.cpp",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone mvmTryingToGetPrint/MvM/MMGame.cpp",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone mvmTryingToGetPrint/Data/Engine/game.cfg",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone mvmTryingToGetPrint/Data/Engine/input.cfg",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/MVM/MMGame.cpp",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone Feb27/Data/Engine/game.cfg",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone mvm/Data/Engine/game.cfg",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone 2/Data/Engine/game.cfg",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone/Data/Engine/game.cfg",
+		"/Users/BreaddyH/Documents/2017_Winter/4C03/Lab/PLab1/SkeletonYH.py",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineC4/C4-4.5-Data/Data/Game/game.cfg",
+		"/Users/BreaddyH/Desktop/x.html",
+		"/Users/BreaddyH/Documents/2017_Winter/4C03/Lab/Lab3/Alice in Wonderland",
+		"/Users/BreaddyH/Documents/2017_Winter/4C03/Lab/PLab1/index.html",
+		"/Users/BreaddyH/Documents/2017_Winter/4C03/Lab/PLab1/SkeletonBackup.py",
+		"/Users/BreaddyH/Documents/2017_Winter/4C03/Lab/PLab1/HTTP_Server/Skeleton.py",
+		"/Users/BreaddyH/Documents/2017_Winter/3S03/Assignment/A1/SortedArraysMedian.java",
+		"/Users/BreaddyH/Documents/2017_Winter/4X03/Tut/tutorial01/ex1.m",
+		"/Users/BreaddyH/Documents/2017_Winter/4X03/Slides/8_interperrorpic.m",
+		"/Users/BreaddyH/Downloads/OpenCV/project2/tracking project/TLD_project_starter_codes_release/run_TLD_on_video.m",
+		"/Users/BreaddyH/Documents/2017_Winter/4X03/Assignment/A1/hany25/a1/p3.m",
+		"/Users/BreaddyH/Desktop/P4.m",
+		"/Users/BreaddyH/Documents/2017_Winter/4X03/Tut/Scripts for Tutorial 1.17/Vectorization/ShortestPath/ShortestPathKernal.m",
+		"/Users/BreaddyH/Documents/2017_Winter/4C03/Lab/PLab1/ggg.txt",
+		"/Users/BreaddyH/Documents/2017_Winter/4C03/Lab/PLab1/Skeleton.py",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/mmgame_Jan 16/MMAiEntiy.cpp",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/mmgame_Jan 16/MMAi.cpp",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/mmgame_Jan 16/MMAi.h",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/mmgame_Jan 16/MMFighter.cpp",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone/Data/MvM/MMGame.cpp",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineC4/C4/Data/Game/game.cfg",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone-1.0-Data/EngineCode/TSMath.cpp",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone-1.0-Code/EngineCode/TSBox.cpp",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone-1.0-Data/EngineCode/TSBox.cpp",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone-1.0-Code/EngineCode/TSEngine.cpp",
+		"/Users/BreaddyH/Documents/2016_Fall/4GP6_/Code/EngineTombstone/Tombstone-1.0-Data/Data/Engine/game.cfg"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

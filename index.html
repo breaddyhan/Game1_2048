@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>2048 (*^▽^*)</title>
+    <link href="2048.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="jquery-1.3.2.js"></script>
+    <script type="text/javascript" src="gameModel.js"></script>
+    <script type="text/javascript" src="gameControl.js"></script>
+    <script type="text/javascript" src="gameAnimation.js"></script>
+    <script type="text/javascript" src="gameUI.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1> 2048 </h1>
+      <a href="javascript:newGame()" id="newGameButton">New Game</a>
+      <p>SCORE:<span id="score">0</span></p>
+      <style type="text/css">
+      body {
+        overflow:hidden;
+      }
+      </style>
+    </header>
+
+    <div id="grid">
+      <div id="grid_0-0" class="grid-class"></div>
+      <div id="grid_0-1" class="grid-class"></div>
+      <div id="grid_0-2" class="grid-class"></div>
+      <div id="grid_0-3" class="grid-class"></div>      
+      <div id="grid_1-0" class="grid-class"></div>
+      <div id="grid_1-1" class="grid-class"></div>
+      <div id="grid_1-2" class="grid-class"></div>
+      <div id="grid_1-3" class="grid-class"></div>
+      <div id="grid_2-0" class="grid-class"></div>
+      <div id="grid_2-1" class="grid-class"></div>
+      <div id="grid_2-2" class="grid-class"></div>
+      <div id="grid_2-3" class="grid-class"></div>
+      <div id="grid_3-0" class="grid-class"></div>
+      <div id="grid_3-1" class="grid-class"></div>
+      <div id="grid_3-2" class="grid-class"></div>
+      <div id="grid_3-3" class="grid-class"></div>
+    </div>
+  </body>
+</html>
