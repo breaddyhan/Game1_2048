@@ -66,5 +66,6 @@ function randNumber(){
 	var randNum = Math.random() < 0.5 ? 2:4;
 	board[randx][randy] = randNum;
 	animate(randx, randy, randNum);
-	console.log("x:"+randx+", y:"+randy, ", "+randNum);
+	console.log("-----New----");
+	console.log("i:"+randx+", j:"+randy,", "+randNum);
 }
